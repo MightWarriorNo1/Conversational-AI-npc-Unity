@@ -1542,7 +1542,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e915910d93e2f984ca65d5b30714d522, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::OllamaLLMService
-  _characterData: {fileID: 11400000, guid: 50be2f964bdd2a847b512102eccb6680, type: 2}
+  _characterData: {fileID: 11400000, guid: 7e5dab19d88c65747b7004b357b2d21a, type: 2}
 --- !u!114 &757991058
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1555,7 +1555,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 631abe5f1dfe0644d91c233ba490adca, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ElevenLabsTTS
-  _apiConfig: {fileID: 11400000, guid: cd84249969b7fd94d9990583e60b13f7, type: 2}
+  _apiConfig: {fileID: 11400000, guid: 142905bf729c99a45829a6ee15cf2e36, type: 2}
   _model_id: eleven_flash_v2_5
   _stability: 0.5
   _similarity_boost: 0.75
