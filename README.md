@@ -6,12 +6,6 @@ Built in 4 days as a technical prototype for a VR experience featuring an intera
 
 ---
 
-## Demo
-
-> speak to Roger de Flor, a 13th-century Catalan admiral and leader of the Almogavars — ask him about his battles, his life, and his death.
-
----
-
 ## Pipeline
 
 ```
@@ -107,8 +101,7 @@ The LLM maintains a full **conversation history** per session, so the character 
 ```bash
 ollama pull llama3.2
 ```
-4. Download a Whisper model (`ggml-base.bin`) from [HuggingFace](https://huggingface.co/ggerganov/whisper.cpp/tree/main) and place it in `Assets/StreamingAssets/`
-5. Create an `APIConfig` asset at `Assets/Resources/APIConfig.asset` and fill in your API keys (see below)
+4. Create an `APIConfig` asset at `Assets/Resources/APIConfig.asset` and fill in your API keys (see below)
 
 ### API Keys
 
